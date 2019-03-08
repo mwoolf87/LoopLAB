@@ -8,10 +8,10 @@ A single page site using both scrollspy and onClick events for easy navigation a
 
 <img src="img/Looplab-home.png" width=500>
 
-<img src="img/Looplab-explore.png" width=500>
+<img src="img/looplab-explore.png" width=500>
 
 <img src="img/Looplab-create.png" width=500>
 
-<img src="img/Looplab-share.png" width=500>
+<img src="img/Looplab-Share.png" width=500>
 
 <img src="img/Looplab-modal.png" width=500>
